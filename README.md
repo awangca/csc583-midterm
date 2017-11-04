@@ -1,5 +1,20 @@
 # Toro Net
 
+
+## Tasks to be done for midterm(Anyi Wang)
+
+Please refer to the issue with ticket #1
+
+
+
+
+
+
+
+
+
+
+
 ## Getting started with VirtualBox
 Fork the repo then clone it to your local machine.
 ```
